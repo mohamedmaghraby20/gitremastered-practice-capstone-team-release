@@ -5,3 +5,4 @@ Pages:
 - schedule.txt, the weekly training
 - fees.txt, the membership fees
 - races.txt, the race calendar
+- routes.txt, the running routes
