@@ -1,2 +1,2 @@
-Adults 40 per year
-Students 20 per year
+Adults 40 per year, paid in January
+Students 20 per year, paid in January
