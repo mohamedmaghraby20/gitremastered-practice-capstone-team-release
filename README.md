@@ -1,5 +1,5 @@
 # Riverside Runners
-The website of a running club by the river. Fees are due in January.
+The website of Riverside Runners, a running club for every pace.
 
 Pages:
 - schedule.txt, the weekly training
