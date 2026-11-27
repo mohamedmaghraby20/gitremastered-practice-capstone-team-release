@@ -6,3 +6,4 @@ Pages:
 - fees.txt, the membership fees
 - races.txt, the race calendar
 - routes.txt, the running routes
+- results.txt, the race results
